@@ -42,6 +42,10 @@ void Matakuliah::inputMK() {
     
 }
 
+void Matakuliah::tampilMK() {
+
+}
+
 
 int main()
 {
