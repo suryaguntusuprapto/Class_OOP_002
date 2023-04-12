@@ -32,6 +32,10 @@ public:
 
 };
 
+void Matakuliah::inputMK() {
+    
+}
+
 
 int main()
 {
