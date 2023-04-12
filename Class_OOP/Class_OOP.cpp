@@ -33,6 +33,12 @@ public:
 };
 
 void Matakuliah::inputMK() {
+    cout << "\nMasukkan kode Mata Kuliah : ";
+    cin >> kode;
+    cout << "Masukkan Nama Mata Kuliah : ";
+    cin >> namamk;
+    cout << "Masukkan Jumlah SKS : ";
+    cin >> sks;
     
 }
 
